@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script>
+    // Redirect to index with the path as a query param
+    var path = window.location.pathname;
+    var search = window.location.search;
+    var hash = window.location.hash;
+    window.location.replace(
+      window.location.origin + '/system-prompt-observatory/' + search + hash
+    );
+  </script>
+</head>
+<body></body>
+</html>
