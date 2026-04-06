@@ -1,0 +1,149 @@
+{
+  "versions": [
+    {
+      "version": "Confer",
+      "file": "prompts-Confer.md",
+      "label": "Confer"
+    },
+    {
+      "version": "copilot-in-microsoft-word",
+      "file": "prompts-copilot-in-microsoft-word.md",
+      "label": "Copilot In Microsoft Word"
+    },
+    {
+      "version": "Fellou-browser",
+      "file": "prompts-Fellou-browser.md",
+      "label": "Fellou Browser"
+    },
+    {
+      "version": "hermes",
+      "file": "prompts-hermes.md",
+      "label": "Hermes"
+    },
+    {
+      "version": "juju-codeium-windsurf-cascade-R1_20250201",
+      "file": "prompts-juju-codeium-windsurf-cascade-R1_20250201.md",
+      "label": "Juju Codeium Windsurf Cascade R1 20250201"
+    },
+    {
+      "version": "juju-codeium-windsurf-cascade_20241206",
+      "file": "prompts-juju-codeium-windsurf-cascade_20241206.md",
+      "label": "Juju Codeium Windsurf Cascade 20241206"
+    },
+    {
+      "version": "juju-deepseek-R1_20250430",
+      "file": "prompts-juju-deepseek-R1_20250430.md",
+      "label": "Juju Deepseek R1 20250430"
+    },
+    {
+      "version": "juju-github-copilot-chat_20230513",
+      "file": "prompts-juju-github-copilot-chat_20230513.md",
+      "label": "Juju Github Copilot Chat 20230513"
+    },
+    {
+      "version": "juju-github-copilot-chat_20240930",
+      "file": "prompts-juju-github-copilot-chat_20240930.md",
+      "label": "Juju Github Copilot Chat 20240930"
+    },
+    {
+      "version": "juju-google-gemini-1.5_20240411",
+      "file": "prompts-juju-google-gemini-1.5_20240411.md",
+      "label": "Juju Google Gemini 1.5 20240411"
+    },
+    {
+      "version": "juju-google-gemini-cli_20250626",
+      "file": "prompts-juju-google-gemini-cli_20250626.md",
+      "label": "Juju Google Gemini Cli 20250626"
+    },
+    {
+      "version": "juju-manus_20250309",
+      "file": "prompts-juju-manus_20250309.md",
+      "label": "Juju Manus 20250309"
+    },
+    {
+      "version": "juju-manus_20250310",
+      "file": "prompts-juju-manus_20250310.md",
+      "label": "Juju Manus 20250310"
+    },
+    {
+      "version": "juju-microsoft-copilot_20240310",
+      "file": "prompts-juju-microsoft-copilot_20240310.md",
+      "label": "Juju Microsoft Copilot 20240310"
+    },
+    {
+      "version": "juju-microsoft-copilot_20241219",
+      "file": "prompts-juju-microsoft-copilot_20241219.md",
+      "label": "Juju Microsoft Copilot 20241219"
+    },
+    {
+      "version": "juju-microsoft-copilot_20260328",
+      "file": "prompts-juju-microsoft-copilot_20260328.md",
+      "label": "Juju Microsoft Copilot 20260328"
+    },
+    {
+      "version": "juju-notion-ai_20221228",
+      "file": "prompts-juju-notion-ai_20221228.md",
+      "label": "Juju Notion Ai 20221228"
+    },
+    {
+      "version": "juju-notion-ai_20260322",
+      "file": "prompts-juju-notion-ai_20260322.md",
+      "label": "Juju Notion Ai 20260322"
+    },
+    {
+      "version": "juju-v0_20250306",
+      "file": "prompts-juju-v0_20250306.md",
+      "label": "Juju V0 20250306"
+    },
+    {
+      "version": "Kagi Assistant",
+      "file": "prompts-Kagi Assistant.md",
+      "label": "Kagi Assistant"
+    },
+    {
+      "version": "Le-Chat",
+      "file": "prompts-Le-Chat.md",
+      "label": "Le Chat"
+    },
+    {
+      "version": "minimax-m2.5",
+      "file": "prompts-minimax-m2.5.md",
+      "label": "Minimax M2.5"
+    },
+    {
+      "version": "Notion-AI",
+      "file": "prompts-Notion-AI.md",
+      "label": "Notion Ai"
+    },
+    {
+      "version": "proton-lumo-ai",
+      "file": "prompts-proton-lumo-ai.md",
+      "label": "Proton Lumo Ai"
+    },
+    {
+      "version": "qwen-3.6-plus",
+      "file": "prompts-qwen-3.6-plus.md",
+      "label": "Qwen 3.6 Plus"
+    },
+    {
+      "version": "Raycast-AI",
+      "file": "prompts-Raycast-AI.md",
+      "label": "Raycast Ai"
+    },
+    {
+      "version": "Sesame-AI-Maya",
+      "file": "prompts-Sesame-AI-Maya.md",
+      "label": "Sesame Ai Maya"
+    },
+    {
+      "version": "t3.chat",
+      "file": "prompts-t3.chat.md",
+      "label": "T3.Chat"
+    },
+    {
+      "version": "Warp-2.0-agent",
+      "file": "prompts-Warp-2.0-agent.md",
+      "label": "Warp 2.0 Agent"
+    }
+  ]
+}

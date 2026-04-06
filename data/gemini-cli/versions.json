@@ -1,0 +1,800 @@
+{
+  "versions": [
+    {
+      "version": "cli-system",
+      "file": "prompts-cli-system.md",
+      "label": "Cli System"
+    },
+    {
+      "version": "official-latest",
+      "file": "prompts-official-latest.md",
+      "label": "Official Latest"
+    },
+    {
+      "version": "prompts-ts-2025-05-30-21fba83",
+      "file": "prompts-prompts-ts-2025-05-30-21fba83.md",
+      "date": "2025-05-30",
+      "label": "Prompts Ts 2025 05 30 21Fba83"
+    },
+    {
+      "version": "prompts-ts-2025-06-02-5f6f6a9",
+      "file": "prompts-prompts-ts-2025-06-02-5f6f6a9.md",
+      "date": "2025-06-02",
+      "label": "Prompts Ts 2025 06 02 5F6F6A9"
+    },
+    {
+      "version": "prompts-ts-2025-06-06-0c86874",
+      "file": "prompts-prompts-ts-2025-06-06-0c86874.md",
+      "date": "2025-06-06",
+      "label": "Prompts Ts 2025 06 06 0C86874"
+    },
+    {
+      "version": "prompts-ts-2025-06-09-3b943c1",
+      "file": "prompts-prompts-ts-2025-06-09-3b943c1.md",
+      "date": "2025-06-09",
+      "label": "Prompts Ts 2025 06 09 3B943C1"
+    },
+    {
+      "version": "prompts-ts-2025-06-12-8bb6eca",
+      "file": "prompts-prompts-ts-2025-06-12-8bb6eca.md",
+      "date": "2025-06-12",
+      "label": "Prompts Ts 2025 06 12 8Bb6Eca"
+    },
+    {
+      "version": "prompts-ts-2025-06-14-32dd298",
+      "file": "prompts-prompts-ts-2025-06-14-32dd298.md",
+      "date": "2025-06-14",
+      "label": "Prompts Ts 2025 06 14 32Dd298"
+    },
+    {
+      "version": "prompts-ts-2025-06-18-5b2cea8",
+      "file": "prompts-prompts-ts-2025-06-18-5b2cea8.md",
+      "date": "2025-06-18",
+      "label": "Prompts Ts 2025 06 18 5B2Cea8"
+    },
+    {
+      "version": "prompts-ts-2025-06-18-c4c444d",
+      "file": "prompts-prompts-ts-2025-06-18-c4c444d.md",
+      "date": "2025-06-18",
+      "label": "Prompts Ts 2025 06 18 C4C444D"
+    },
+    {
+      "version": "prompts-ts-2025-06-19-8e7fa7e",
+      "file": "prompts-prompts-ts-2025-06-19-8e7fa7e.md",
+      "date": "2025-06-19",
+      "label": "Prompts Ts 2025 06 19 8E7Fa7E"
+    },
+    {
+      "version": "prompts-ts-2025-06-25-31f3242",
+      "file": "prompts-prompts-ts-2025-06-25-31f3242.md",
+      "date": "2025-06-25",
+      "label": "Prompts Ts 2025 06 25 31F3242"
+    },
+    {
+      "version": "prompts-ts-2025-06-30-0ca5c07",
+      "file": "prompts-prompts-ts-2025-06-30-0ca5c07.md",
+      "date": "2025-06-30",
+      "label": "Prompts Ts 2025 06 30 0Ca5C07"
+    },
+    {
+      "version": "prompts-ts-2025-07-11-82bde57",
+      "file": "prompts-prompts-ts-2025-07-11-82bde57.md",
+      "date": "2025-07-11",
+      "label": "Prompts Ts 2025 07 11 82Bde57"
+    },
+    {
+      "version": "prompts-ts-2025-07-12-642d2e8",
+      "file": "prompts-prompts-ts-2025-07-12-642d2e8.md",
+      "date": "2025-07-12",
+      "label": "Prompts Ts 2025 07 12 642D2E8"
+    },
+    {
+      "version": "prompts-ts-2025-07-15-222e362",
+      "file": "prompts-prompts-ts-2025-07-15-222e362.md",
+      "date": "2025-07-15",
+      "label": "Prompts Ts 2025 07 15 222E362"
+    },
+    {
+      "version": "prompts-ts-2025-07-21-dc2ac14",
+      "file": "prompts-prompts-ts-2025-07-21-dc2ac14.md",
+      "date": "2025-07-21",
+      "label": "Prompts Ts 2025 07 21 Dc2Ac14"
+    },
+    {
+      "version": "prompts-ts-2025-07-22-5dce1df",
+      "file": "prompts-prompts-ts-2025-07-22-5dce1df.md",
+      "date": "2025-07-22",
+      "label": "Prompts Ts 2025 07 22 5Dce1Df"
+    },
+    {
+      "version": "prompts-ts-2025-07-30-bc23009",
+      "file": "prompts-prompts-ts-2025-07-30-bc23009.md",
+      "date": "2025-07-30",
+      "label": "Prompts Ts 2025 07 30 Bc23009"
+    },
+    {
+      "version": "prompts-ts-2025-08-17-2998f27",
+      "file": "prompts-prompts-ts-2025-08-17-2998f27.md",
+      "date": "2025-08-17",
+      "label": "Prompts Ts 2025 08 17 2998F27"
+    },
+    {
+      "version": "prompts-ts-2025-09-06-77f7951",
+      "file": "prompts-prompts-ts-2025-09-06-77f7951.md",
+      "date": "2025-09-06",
+      "label": "Prompts Ts 2025 09 06 77F7951"
+    },
+    {
+      "version": "prompts-ts-2025-09-25-6535b71",
+      "file": "prompts-prompts-ts-2025-09-25-6535b71.md",
+      "date": "2025-09-25",
+      "label": "Prompts Ts 2025 09 25 6535B71"
+    },
+    {
+      "version": "prompts-ts-2025-10-02-63efcb6",
+      "file": "prompts-prompts-ts-2025-10-02-63efcb6.md",
+      "date": "2025-10-02",
+      "label": "Prompts Ts 2025 10 02 63Efcb6"
+    },
+    {
+      "version": "prompts-ts-2025-10-09-3d24575",
+      "file": "prompts-prompts-ts-2025-10-09-3d24575.md",
+      "date": "2025-10-09",
+      "label": "Prompts Ts 2025 10 09 3D24575"
+    },
+    {
+      "version": "prompts-ts-2025-10-13-249a193",
+      "file": "prompts-prompts-ts-2025-10-13-249a193.md",
+      "date": "2025-10-13",
+      "label": "Prompts Ts 2025 10 13 249A193"
+    },
+    {
+      "version": "prompts-ts-2025-10-14-3ba4ba7",
+      "file": "prompts-prompts-ts-2025-10-14-3ba4ba7.md",
+      "date": "2025-10-14",
+      "label": "Prompts Ts 2025 10 14 3Ba4Ba7"
+    },
+    {
+      "version": "prompts-ts-2025-10-14-518caae",
+      "file": "prompts-prompts-ts-2025-10-14-518caae.md",
+      "date": "2025-10-14",
+      "label": "Prompts Ts 2025 10 14 518Caae"
+    },
+    {
+      "version": "prompts-ts-2025-10-14-a6720d6",
+      "file": "prompts-prompts-ts-2025-10-14-a6720d6.md",
+      "date": "2025-10-14",
+      "label": "Prompts Ts 2025 10 14 A6720D6"
+    },
+    {
+      "version": "prompts-ts-2025-10-17-0ded546",
+      "file": "prompts-prompts-ts-2025-10-17-0ded546.md",
+      "date": "2025-10-17",
+      "label": "Prompts Ts 2025 10 17 0Ded546"
+    },
+    {
+      "version": "prompts-ts-2025-10-17-2ef3806",
+      "file": "prompts-prompts-ts-2025-10-17-2ef3806.md",
+      "date": "2025-10-17",
+      "label": "Prompts Ts 2025 10 17 2Ef3806"
+    },
+    {
+      "version": "prompts-ts-2025-10-17-3a1d376",
+      "file": "prompts-prompts-ts-2025-10-17-3a1d376.md",
+      "date": "2025-10-17",
+      "label": "Prompts Ts 2025 10 17 3A1D376"
+    },
+    {
+      "version": "prompts-ts-2025-10-19-23e52f0",
+      "file": "prompts-prompts-ts-2025-10-19-23e52f0.md",
+      "date": "2025-10-19",
+      "label": "Prompts Ts 2025 10 19 23E52F0"
+    },
+    {
+      "version": "prompts-ts-2025-10-19-c8518d6",
+      "file": "prompts-prompts-ts-2025-10-19-c8518d6.md",
+      "date": "2025-10-19",
+      "label": "Prompts Ts 2025 10 19 C8518D6"
+    },
+    {
+      "version": "prompts-ts-2025-10-21-b364f37",
+      "file": "prompts-prompts-ts-2025-10-21-b364f37.md",
+      "date": "2025-10-21",
+      "label": "Prompts Ts 2025 10 21 B364F37"
+    },
+    {
+      "version": "prompts-ts-2025-11-03-93f14ce",
+      "file": "prompts-prompts-ts-2025-11-03-93f14ce.md",
+      "date": "2025-11-03",
+      "label": "Prompts Ts 2025 11 03 93F14Ce"
+    },
+    {
+      "version": "prompts-ts-2025-11-04-2b77c1d",
+      "file": "prompts-prompts-ts-2025-11-04-2b77c1d.md",
+      "date": "2025-11-04",
+      "label": "Prompts Ts 2025 11 04 2B77C1D"
+    },
+    {
+      "version": "prompts-ts-2025-11-06-f05d937",
+      "file": "prompts-prompts-ts-2025-11-06-f05d937.md",
+      "date": "2025-11-06",
+      "label": "Prompts Ts 2025 11 06 F05D937"
+    },
+    {
+      "version": "prompts-ts-2025-11-11-2e2b066",
+      "file": "prompts-prompts-ts-2025-11-11-2e2b066.md",
+      "date": "2025-11-11",
+      "label": "Prompts Ts 2025 11 11 2E2B066"
+    },
+    {
+      "version": "prompts-ts-2025-11-11-5ba6bc7",
+      "file": "prompts-prompts-ts-2025-11-11-5ba6bc7.md",
+      "date": "2025-11-11",
+      "label": "Prompts Ts 2025 11 11 5Ba6Bc7"
+    },
+    {
+      "version": "prompts-ts-2025-11-11-c107651",
+      "file": "prompts-prompts-ts-2025-11-11-c107651.md",
+      "date": "2025-11-11",
+      "label": "Prompts Ts 2025 11 11 C107651"
+    },
+    {
+      "version": "prompts-ts-2025-11-24-d14779b",
+      "file": "prompts-prompts-ts-2025-11-24-d14779b.md",
+      "date": "2025-11-24",
+      "label": "Prompts Ts 2025 11 24 D14779B"
+    },
+    {
+      "version": "prompts-ts-2025-11-26-4a82b0d",
+      "file": "prompts-prompts-ts-2025-11-26-4a82b0d.md",
+      "date": "2025-11-26",
+      "label": "Prompts Ts 2025 11 26 4A82B0D"
+    },
+    {
+      "version": "prompts-ts-2025-11-26-1187c7f",
+      "file": "prompts-prompts-ts-2025-11-26-1187c7f.md",
+      "date": "2025-11-26",
+      "label": "Prompts Ts 2025 11 26 1187C7F"
+    },
+    {
+      "version": "prompts-ts-2025-12-10-91b15fc",
+      "file": "prompts-prompts-ts-2025-12-10-91b15fc.md",
+      "date": "2025-12-10",
+      "label": "Prompts Ts 2025 12 10 91B15Fc"
+    },
+    {
+      "version": "prompts-ts-2025-12-17-bf90b59",
+      "file": "prompts-prompts-ts-2025-12-17-bf90b59.md",
+      "date": "2025-12-17",
+      "label": "Prompts Ts 2025 12 17 Bf90B59"
+    },
+    {
+      "version": "prompts-ts-2026-01-02-764b195",
+      "file": "prompts-prompts-ts-2026-01-02-764b195.md",
+      "date": "2026-01-02",
+      "label": "Prompts Ts 2026 01 02 764B195"
+    },
+    {
+      "version": "prompts-ts-2026-01-06-7d4f97d",
+      "file": "prompts-prompts-ts-2026-01-06-7d4f97d.md",
+      "date": "2026-01-06",
+      "label": "Prompts Ts 2026 01 06 7D4F97D"
+    },
+    {
+      "version": "prompts-ts-2026-01-06-7956eb2",
+      "file": "prompts-prompts-ts-2026-01-06-7956eb2.md",
+      "date": "2026-01-06",
+      "label": "Prompts Ts 2026 01 06 7956Eb2"
+    },
+    {
+      "version": "prompts-ts-2026-01-06-da85e3f",
+      "file": "prompts-prompts-ts-2026-01-06-da85e3f.md",
+      "date": "2026-01-06",
+      "label": "Prompts Ts 2026 01 06 Da85E3F"
+    },
+    {
+      "version": "prompts-ts-2026-01-08-41e627a",
+      "file": "prompts-prompts-ts-2026-01-08-41e627a.md",
+      "date": "2026-01-08",
+      "label": "Prompts Ts 2026 01 08 41E627A"
+    },
+    {
+      "version": "prompts-ts-2026-01-09-b08b0d7",
+      "file": "prompts-prompts-ts-2026-01-09-b08b0d7.md",
+      "date": "2026-01-09",
+      "label": "Prompts Ts 2026 01 09 B08B0D7"
+    },
+    {
+      "version": "prompts-ts-2026-01-16-fcd860e",
+      "file": "prompts-prompts-ts-2026-01-16-fcd860e.md",
+      "date": "2026-01-16",
+      "label": "Prompts Ts 2026 01 16 Fcd860E"
+    },
+    {
+      "version": "prompts-ts-2026-01-17-e030426",
+      "file": "prompts-prompts-ts-2026-01-17-e030426.md",
+      "date": "2026-01-17",
+      "label": "Prompts Ts 2026 01 17 E030426"
+    },
+    {
+      "version": "prompts-ts-2026-01-19-203f520",
+      "file": "prompts-prompts-ts-2026-01-19-203f520.md",
+      "date": "2026-01-19",
+      "label": "Prompts Ts 2026 01 19 203F520"
+    },
+    {
+      "version": "prompts-ts-2026-01-20-1182168",
+      "file": "prompts-prompts-ts-2026-01-20-1182168.md",
+      "date": "2026-01-20",
+      "label": "Prompts Ts 2026 01 20 1182168"
+    },
+    {
+      "version": "prompts-ts-2026-01-21-5debf86",
+      "file": "prompts-prompts-ts-2026-01-21-5debf86.md",
+      "date": "2026-01-21",
+      "label": "Prompts Ts 2026 01 21 5Debf86"
+    },
+    {
+      "version": "prompts-ts-2026-01-21-acbef4c",
+      "file": "prompts-prompts-ts-2026-01-21-acbef4c.md",
+      "date": "2026-01-21",
+      "label": "Prompts Ts 2026 01 21 Acbef4C"
+    },
+    {
+      "version": "prompts-ts-2026-01-21-eb2af84",
+      "file": "prompts-prompts-ts-2026-01-21-eb2af84.md",
+      "date": "2026-01-21",
+      "label": "Prompts Ts 2026 01 21 Eb2Af84"
+    },
+    {
+      "version": "prompts-ts-2026-01-23-2c6781d",
+      "file": "prompts-prompts-ts-2026-01-23-2c6781d.md",
+      "date": "2026-01-23",
+      "label": "Prompts Ts 2026 01 23 2C6781D"
+    },
+    {
+      "version": "prompts-ts-2026-01-23-3c832dd",
+      "file": "prompts-prompts-ts-2026-01-23-3c832dd.md",
+      "date": "2026-01-23",
+      "label": "Prompts Ts 2026 01 23 3C832Dd"
+    },
+    {
+      "version": "prompts-ts-2026-01-26-13bc5f6",
+      "file": "prompts-prompts-ts-2026-01-26-13bc5f6.md",
+      "date": "2026-01-26",
+      "label": "Prompts Ts 2026 01 26 13Bc5F6"
+    },
+    {
+      "version": "prompts-ts-2026-01-27-dacc178",
+      "file": "prompts-prompts-ts-2026-01-27-dacc178.md",
+      "date": "2026-01-27",
+      "label": "Prompts Ts 2026 01 27 Dacc178"
+    },
+    {
+      "version": "prompts-ts-2026-02-06-9178b31",
+      "file": "prompts-prompts-ts-2026-02-06-9178b31.md",
+      "date": "2026-02-06",
+      "label": "Prompts Ts 2026 02 06 9178B31"
+    },
+    {
+      "version": "prompts-ts-2026-02-09-89d4556",
+      "file": "prompts-prompts-ts-2026-02-09-89d4556.md",
+      "date": "2026-02-09",
+      "label": "Prompts Ts 2026 02 09 89D4556"
+    },
+    {
+      "version": "snippets-ts-2026-01-27-0774f60",
+      "file": "prompts-snippets-ts-2026-01-27-0774f60.md",
+      "date": "2026-01-27",
+      "label": "Snippets Ts 2026 01 27 0774F60"
+    },
+    {
+      "version": "snippets-ts-2026-01-27-b6cf189",
+      "file": "prompts-snippets-ts-2026-01-27-b6cf189.md",
+      "date": "2026-01-27",
+      "label": "Snippets Ts 2026 01 27 B6Cf189"
+    },
+    {
+      "version": "snippets-ts-2026-01-27-dacc178",
+      "file": "prompts-snippets-ts-2026-01-27-dacc178.md",
+      "date": "2026-01-27",
+      "label": "Snippets Ts 2026 01 27 Dacc178"
+    },
+    {
+      "version": "snippets-ts-2026-02-03-4aa2959",
+      "file": "prompts-snippets-ts-2026-02-03-4aa2959.md",
+      "date": "2026-02-03",
+      "label": "Snippets Ts 2026 02 03 4Aa2959"
+    },
+    {
+      "version": "snippets-ts-2026-02-03-675ca07",
+      "file": "prompts-snippets-ts-2026-02-03-675ca07.md",
+      "date": "2026-02-03",
+      "label": "Snippets Ts 2026 02 03 675Ca07"
+    },
+    {
+      "version": "snippets-ts-2026-02-03-d866e7e",
+      "file": "prompts-snippets-ts-2026-02-03-d866e7e.md",
+      "date": "2026-02-03",
+      "label": "Snippets Ts 2026 02 03 D866E7E"
+    },
+    {
+      "version": "snippets-ts-2026-02-04-a0b6602",
+      "file": "prompts-snippets-ts-2026-02-04-a0b6602.md",
+      "date": "2026-02-04",
+      "label": "Snippets Ts 2026 02 04 A0B6602"
+    },
+    {
+      "version": "snippets-ts-2026-02-04-ed02b94",
+      "file": "prompts-snippets-ts-2026-02-04-ed02b94.md",
+      "date": "2026-02-04",
+      "label": "Snippets Ts 2026 02 04 Ed02B94"
+    },
+    {
+      "version": "snippets-ts-2026-02-05-4a6e3eb",
+      "file": "prompts-snippets-ts-2026-02-05-4a6e3eb.md",
+      "date": "2026-02-05",
+      "label": "Snippets Ts 2026 02 05 4A6E3Eb"
+    },
+    {
+      "version": "snippets-ts-2026-02-05-6860556",
+      "file": "prompts-snippets-ts-2026-02-05-6860556.md",
+      "date": "2026-02-05",
+      "label": "Snippets Ts 2026 02 05 6860556"
+    },
+    {
+      "version": "snippets-ts-2026-02-05-dc09b49",
+      "file": "prompts-snippets-ts-2026-02-05-dc09b49.md",
+      "date": "2026-02-05",
+      "label": "Snippets Ts 2026 02 05 Dc09B49"
+    },
+    {
+      "version": "snippets-ts-2026-02-05-e4c80e6",
+      "file": "prompts-snippets-ts-2026-02-05-e4c80e6.md",
+      "date": "2026-02-05",
+      "label": "Snippets Ts 2026 02 05 E4C80E6"
+    },
+    {
+      "version": "snippets-ts-2026-02-06-9178b31",
+      "file": "prompts-snippets-ts-2026-02-06-9178b31.md",
+      "date": "2026-02-06",
+      "label": "Snippets Ts 2026 02 06 9178B31"
+    },
+    {
+      "version": "snippets-ts-2026-02-07-86bd7db",
+      "file": "prompts-snippets-ts-2026-02-07-86bd7db.md",
+      "date": "2026-02-07",
+      "label": "Snippets Ts 2026 02 07 86Bd7Db"
+    },
+    {
+      "version": "snippets-ts-2026-02-07-be6723e",
+      "file": "prompts-snippets-ts-2026-02-07-be6723e.md",
+      "date": "2026-02-07",
+      "label": "Snippets Ts 2026 02 07 Be6723E"
+    },
+    {
+      "version": "snippets-ts-2026-02-07-eee95c5",
+      "file": "prompts-snippets-ts-2026-02-07-eee95c5.md",
+      "date": "2026-02-07",
+      "label": "Snippets Ts 2026 02 07 Eee95C5"
+    },
+    {
+      "version": "snippets-ts-2026-02-08-97a4e62",
+      "file": "prompts-snippets-ts-2026-02-08-97a4e62.md",
+      "date": "2026-02-08",
+      "label": "Snippets Ts 2026 02 08 97A4E62"
+    },
+    {
+      "version": "snippets-ts-2026-02-08-9201236",
+      "file": "prompts-snippets-ts-2026-02-08-9201236.md",
+      "date": "2026-02-08",
+      "label": "Snippets Ts 2026 02 08 9201236"
+    },
+    {
+      "version": "snippets-ts-2026-02-08-cb73fbf",
+      "file": "prompts-snippets-ts-2026-02-08-cb73fbf.md",
+      "date": "2026-02-08",
+      "label": "Snippets Ts 2026 02 08 Cb73Fbf"
+    },
+    {
+      "version": "snippets-ts-2026-02-08-d45a45d",
+      "file": "prompts-snippets-ts-2026-02-08-d45a45d.md",
+      "date": "2026-02-08",
+      "label": "Snippets Ts 2026 02 08 D45A45D"
+    },
+    {
+      "version": "snippets-ts-2026-02-09-89d4556",
+      "file": "prompts-snippets-ts-2026-02-09-89d4556.md",
+      "date": "2026-02-09",
+      "label": "Snippets Ts 2026 02 09 89D4556"
+    },
+    {
+      "version": "snippets-ts-2026-02-09-92a5f72",
+      "file": "prompts-snippets-ts-2026-02-09-92a5f72.md",
+      "date": "2026-02-09",
+      "label": "Snippets Ts 2026 02 09 92A5F72"
+    },
+    {
+      "version": "snippets-ts-2026-02-09-aebc107",
+      "file": "prompts-snippets-ts-2026-02-09-aebc107.md",
+      "date": "2026-02-09",
+      "label": "Snippets Ts 2026 02 09 Aebc107"
+    },
+    {
+      "version": "snippets-ts-2026-02-09-cc27980",
+      "file": "prompts-snippets-ts-2026-02-09-cc27980.md",
+      "date": "2026-02-09",
+      "label": "Snippets Ts 2026 02 09 Cc27980"
+    },
+    {
+      "version": "snippets-ts-2026-02-10-2ae5e1a",
+      "file": "prompts-snippets-ts-2026-02-10-2ae5e1a.md",
+      "date": "2026-02-10",
+      "label": "Snippets Ts 2026 02 10 2Ae5E1A"
+    },
+    {
+      "version": "snippets-ts-2026-02-10-8b76211",
+      "file": "prompts-snippets-ts-2026-02-10-8b76211.md",
+      "date": "2026-02-10",
+      "label": "Snippets Ts 2026 02 10 8B76211"
+    },
+    {
+      "version": "snippets-ts-2026-02-10-41bbe6c",
+      "file": "prompts-snippets-ts-2026-02-10-41bbe6c.md",
+      "date": "2026-02-10",
+      "label": "Snippets Ts 2026 02 10 41Bbe6C"
+    },
+    {
+      "version": "snippets-ts-2026-02-10-49d55d9",
+      "file": "prompts-snippets-ts-2026-02-10-49d55d9.md",
+      "date": "2026-02-10",
+      "label": "Snippets Ts 2026 02 10 49D55D9"
+    },
+    {
+      "version": "snippets-ts-2026-02-10-740f0e4",
+      "file": "prompts-snippets-ts-2026-02-10-740f0e4.md",
+      "date": "2026-02-10",
+      "label": "Snippets Ts 2026 02 10 740F0E4"
+    },
+    {
+      "version": "snippets-ts-2026-02-10-55571de",
+      "file": "prompts-snippets-ts-2026-02-10-55571de.md",
+      "date": "2026-02-10",
+      "label": "Snippets Ts 2026 02 10 55571De"
+    },
+    {
+      "version": "snippets-ts-2026-02-10-cb4e1e6",
+      "file": "prompts-snippets-ts-2026-02-10-cb4e1e6.md",
+      "date": "2026-02-10",
+      "label": "Snippets Ts 2026 02 10 Cb4E1E6"
+    },
+    {
+      "version": "snippets-ts-2026-02-11-2a08456",
+      "file": "prompts-snippets-ts-2026-02-11-2a08456.md",
+      "date": "2026-02-11",
+      "label": "Snippets Ts 2026 02 11 2A08456"
+    },
+    {
+      "version": "snippets-ts-2026-02-11-6c17731",
+      "file": "prompts-snippets-ts-2026-02-11-6c17731.md",
+      "date": "2026-02-11",
+      "label": "Snippets Ts 2026 02 11 6C17731"
+    },
+    {
+      "version": "snippets-ts-2026-02-12-27a1bae",
+      "file": "prompts-snippets-ts-2026-02-12-27a1bae.md",
+      "date": "2026-02-12",
+      "label": "Snippets Ts 2026 02 12 27A1Bae"
+    },
+    {
+      "version": "snippets-ts-2026-02-15-6eec9f3",
+      "file": "prompts-snippets-ts-2026-02-15-6eec9f3.md",
+      "date": "2026-02-15",
+      "label": "Snippets Ts 2026 02 15 6Eec9F3"
+    },
+    {
+      "version": "snippets-ts-2026-02-16-39d3610",
+      "file": "prompts-snippets-ts-2026-02-16-39d3610.md",
+      "date": "2026-02-16",
+      "label": "Snippets Ts 2026 02 16 39D3610"
+    },
+    {
+      "version": "snippets-ts-2026-02-17-14aabbb",
+      "file": "prompts-snippets-ts-2026-02-17-14aabbb.md",
+      "date": "2026-02-17",
+      "label": "Snippets Ts 2026 02 17 14Aabbb"
+    },
+    {
+      "version": "snippets-ts-2026-02-17-ce84b3c",
+      "file": "prompts-snippets-ts-2026-02-17-ce84b3c.md",
+      "date": "2026-02-17",
+      "label": "Snippets Ts 2026 02 17 Ce84B3C"
+    },
+    {
+      "version": "snippets-ts-2026-02-18-8f6a711",
+      "file": "prompts-snippets-ts-2026-02-18-8f6a711.md",
+      "date": "2026-02-18",
+      "label": "Snippets Ts 2026 02 18 8F6A711"
+    },
+    {
+      "version": "snippets-ts-2026-02-18-87f5dd1",
+      "file": "prompts-snippets-ts-2026-02-18-87f5dd1.md",
+      "date": "2026-02-18",
+      "label": "Snippets Ts 2026 02 18 87F5Dd1"
+    },
+    {
+      "version": "snippets-ts-2026-02-20-6cfd29e",
+      "file": "prompts-snippets-ts-2026-02-20-6cfd29e.md",
+      "date": "2026-02-20",
+      "label": "Snippets Ts 2026 02 20 6Cfd29E"
+    },
+    {
+      "version": "snippets-ts-2026-02-20-547f5d4",
+      "file": "prompts-snippets-ts-2026-02-20-547f5d4.md",
+      "date": "2026-02-20",
+      "label": "Snippets Ts 2026 02 20 547F5D4"
+    },
+    {
+      "version": "snippets-ts-2026-02-24-182c858",
+      "file": "prompts-snippets-ts-2026-02-24-182c858.md",
+      "date": "2026-02-24",
+      "label": "Snippets Ts 2026 02 24 182C858"
+    },
+    {
+      "version": "snippets-ts-2026-02-24-baccda9",
+      "file": "prompts-snippets-ts-2026-02-24-baccda9.md",
+      "date": "2026-02-24",
+      "label": "Snippets Ts 2026 02 24 Baccda9"
+    },
+    {
+      "version": "snippets-ts-2026-02-25-3993800",
+      "file": "prompts-snippets-ts-2026-02-25-3993800.md",
+      "date": "2026-02-25",
+      "label": "Snippets Ts 2026 02 25 3993800"
+    },
+    {
+      "version": "snippets-ts-2026-02-26-611d934",
+      "file": "prompts-snippets-ts-2026-02-26-611d934.md",
+      "date": "2026-02-26",
+      "label": "Snippets Ts 2026 02 26 611D934"
+    },
+    {
+      "version": "snippets-ts-2026-02-26-aa98caf",
+      "file": "prompts-snippets-ts-2026-02-26-aa98caf.md",
+      "date": "2026-02-26",
+      "label": "Snippets Ts 2026 02 26 Aa98Caf"
+    },
+    {
+      "version": "snippets-ts-2026-02-27-25ade7b",
+      "file": "prompts-snippets-ts-2026-02-27-25ade7b.md",
+      "date": "2026-02-27",
+      "label": "Snippets Ts 2026 02 27 25Ade7B"
+    },
+    {
+      "version": "snippets-ts-2026-02-27-23905bc",
+      "file": "prompts-snippets-ts-2026-02-27-23905bc.md",
+      "date": "2026-02-27",
+      "label": "Snippets Ts 2026 02 27 23905Bc"
+    },
+    {
+      "version": "snippets-ts-2026-02-28-a153ff5",
+      "file": "prompts-snippets-ts-2026-02-28-a153ff5.md",
+      "date": "2026-02-28",
+      "label": "Snippets Ts 2026 02 28 A153Ff5"
+    },
+    {
+      "version": "snippets-ts-2026-03-05-1c3c7a3",
+      "file": "prompts-snippets-ts-2026-03-05-1c3c7a3.md",
+      "date": "2026-03-05",
+      "label": "Snippets Ts 2026 03 05 1C3C7A3"
+    },
+    {
+      "version": "snippets-ts-2026-03-05-a8f5073",
+      "file": "prompts-snippets-ts-2026-03-05-a8f5073.md",
+      "date": "2026-03-05",
+      "label": "Snippets Ts 2026 03 05 A8F5073"
+    },
+    {
+      "version": "snippets-ts-2026-03-06-06a176e",
+      "file": "prompts-snippets-ts-2026-03-06-06a176e.md",
+      "date": "2026-03-06",
+      "label": "Snippets Ts 2026 03 06 06A176E"
+    },
+    {
+      "version": "snippets-ts-2026-03-06-4669148",
+      "file": "prompts-snippets-ts-2026-03-06-4669148.md",
+      "date": "2026-03-06",
+      "label": "Snippets Ts 2026 03 06 4669148"
+    },
+    {
+      "version": "snippets-ts-2026-03-06-c1317aa",
+      "file": "prompts-snippets-ts-2026-03-06-c1317aa.md",
+      "date": "2026-03-06",
+      "label": "Snippets Ts 2026 03 06 C1317Aa"
+    },
+    {
+      "version": "snippets-ts-2026-03-10-519c75f",
+      "file": "prompts-snippets-ts-2026-03-10-519c75f.md",
+      "date": "2026-03-10",
+      "label": "Snippets Ts 2026 03 10 519C75F"
+    },
+    {
+      "version": "snippets-ts-2026-03-12-cd7dced",
+      "file": "prompts-snippets-ts-2026-03-12-cd7dced.md",
+      "date": "2026-03-12",
+      "label": "Snippets Ts 2026 03 12 Cd7Dced"
+    },
+    {
+      "version": "snippets-ts-2026-03-13-9f7691f",
+      "file": "prompts-snippets-ts-2026-03-13-9f7691f.md",
+      "date": "2026-03-13",
+      "label": "Snippets Ts 2026 03 13 9F7691F"
+    },
+    {
+      "version": "snippets-ts-2026-03-18-1725ec3",
+      "file": "prompts-snippets-ts-2026-03-18-1725ec3.md",
+      "date": "2026-03-18",
+      "label": "Snippets Ts 2026 03 18 1725Ec3"
+    },
+    {
+      "version": "snippets-ts-2026-03-19-33f6301",
+      "file": "prompts-snippets-ts-2026-03-19-33f6301.md",
+      "date": "2026-03-19",
+      "label": "Snippets Ts 2026 03 19 33F6301"
+    },
+    {
+      "version": "snippets-ts-2026-03-21-4c533b1",
+      "file": "prompts-snippets-ts-2026-03-21-4c533b1.md",
+      "date": "2026-03-21",
+      "label": "Snippets Ts 2026 03 21 4C533B1"
+    },
+    {
+      "version": "snippets-ts-2026-03-23-36e6445",
+      "file": "prompts-snippets-ts-2026-03-23-36e6445.md",
+      "date": "2026-03-23",
+      "label": "Snippets Ts 2026 03 23 36E6445"
+    },
+    {
+      "version": "snippets-ts-2026-03-24-6b7dc4d",
+      "file": "prompts-snippets-ts-2026-03-24-6b7dc4d.md",
+      "date": "2026-03-24",
+      "label": "Snippets Ts 2026 03 24 6B7Dc4D"
+    },
+    {
+      "version": "snippets-ts-2026-03-27-afc1d50",
+      "file": "prompts-snippets-ts-2026-03-27-afc1d50.md",
+      "date": "2026-03-27",
+      "label": "Snippets Ts 2026 03 27 Afc1D50"
+    },
+    {
+      "version": "snippets-ts-2026-03-30-46d6b11",
+      "file": "prompts-snippets-ts-2026-03-30-46d6b11.md",
+      "date": "2026-03-30",
+      "label": "Snippets Ts 2026 03 30 46D6B11"
+    },
+    {
+      "version": "snippets-ts-2026-04-01-3a32d97",
+      "file": "prompts-snippets-ts-2026-04-01-3a32d97.md",
+      "date": "2026-04-01",
+      "label": "Snippets Ts 2026 04 01 3A32D97"
+    },
+    {
+      "version": "snippets-ts-2026-04-01-43cf63e",
+      "file": "prompts-snippets-ts-2026-04-01-43cf63e.md",
+      "date": "2026-04-01",
+      "label": "Snippets Ts 2026 04 01 43Cf63E"
+    },
+    {
+      "version": "snippets-ts-2026-04-01-ca43f8c",
+      "file": "prompts-snippets-ts-2026-04-01-ca43f8c.md",
+      "date": "2026-04-01",
+      "label": "Snippets Ts 2026 04 01 Ca43F8C"
+    },
+    {
+      "version": "snippets-ts-2026-04-03-4fb3790",
+      "file": "prompts-snippets-ts-2026-04-03-4fb3790.md",
+      "date": "2026-04-03",
+      "label": "Snippets Ts 2026 04 03 4Fb3790"
+    }
+  ]
+}

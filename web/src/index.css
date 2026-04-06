@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.theme-light {
+  --bg: #ffffff;
+  --bg-secondary: #f9fafb;
+  --bg-hover: #f3f4f6;
+  --bg-active: #eff6ff;
+  --border: #e5e7eb;
+  --text: #111827;
+  --text-secondary: #6b7280;
+  --text-muted: #9ca3af;
+  --accent: #2563eb;
+  --accent-text: #ffffff;
+  --select-bg: #ffffff;
+  --select-text: #111827;
+  --select-border: #d1d5db;
+  --panel-bg: #f9fafb;
+  --prompt-bg: #ffffff;
+  --prompt-dim: #cccccc;
+  --prompt-text: #555555;
+  --prompt-highlight: #1a1a1a;
+}
+
+.theme-dark {
+  --bg: #1e1e1e;
+  --bg-secondary: #252526;
+  --bg-hover: #2a2d2e;
+  --bg-active: #37373d;
+  --border: #3e3e42;
+  --text: #cccccc;
+  --text-secondary: #9d9d9d;
+  --text-muted: #6e6e6e;
+  --accent: #569cd6;
+  --accent-text: #ffffff;
+  --select-bg: #3c3c3c;
+  --select-text: #cccccc;
+  --select-border: #555555;
+  --panel-bg: #252526;
+  --prompt-bg: #1e1e1e;
+  --prompt-dim: #333333;
+  --prompt-text: #777777;
+  --prompt-highlight: #dddddd;
+}

@@ -1,0 +1,196 @@
+{
+  "versions": [
+    {
+      "version": "agents-default-agent-yaml-2025-10-27-cde5553",
+      "file": "prompts-agents-default-agent-yaml-2025-10-27-cde5553.md",
+      "date": "2025-10-27",
+      "label": "Agents Default Agent Yaml 2025 10 27 Cde5553"
+    },
+    {
+      "version": "agents-default-agent-yaml-2025-11-12-777a3ac",
+      "file": "prompts-agents-default-agent-yaml-2025-11-12-777a3ac.md",
+      "date": "2025-11-12",
+      "label": "Agents Default Agent Yaml 2025 11 12 777A3Ac"
+    },
+    {
+      "version": "agents-default-agent-yaml-2025-11-20-1815c09",
+      "file": "prompts-agents-default-agent-yaml-2025-11-20-1815c09.md",
+      "date": "2025-11-20",
+      "label": "Agents Default Agent Yaml 2025 11 20 1815C09"
+    },
+    {
+      "version": "agents-default-agent-yaml-2025-11-20-6121ad1",
+      "file": "prompts-agents-default-agent-yaml-2025-11-20-6121ad1.md",
+      "date": "2025-11-20",
+      "label": "Agents Default Agent Yaml 2025 11 20 6121Ad1"
+    },
+    {
+      "version": "agents-default-agent-yaml-2025-11-20-d5b556b",
+      "file": "prompts-agents-default-agent-yaml-2025-11-20-d5b556b.md",
+      "date": "2025-11-20",
+      "label": "Agents Default Agent Yaml 2025 11 20 D5B556B"
+    },
+    {
+      "version": "agents-default-agent-yaml-2025-11-21-0fc0d21",
+      "file": "prompts-agents-default-agent-yaml-2025-11-21-0fc0d21.md",
+      "date": "2025-11-21",
+      "label": "Agents Default Agent Yaml 2025 11 21 0Fc0D21"
+    },
+    {
+      "version": "agents-default-agent-yaml-2026-01-21-628afeb",
+      "file": "prompts-agents-default-agent-yaml-2026-01-21-628afeb.md",
+      "date": "2026-01-21",
+      "label": "Agents Default Agent Yaml 2026 01 21 628Afeb"
+    },
+    {
+      "version": "agents-default-agent-yaml-2026-02-25-384aff5",
+      "file": "prompts-agents-default-agent-yaml-2026-02-25-384aff5.md",
+      "date": "2026-02-25",
+      "label": "Agents Default Agent Yaml 2026 02 25 384Aff5"
+    },
+    {
+      "version": "agents-default-agent-yaml-2026-03-10-f213ea3",
+      "file": "prompts-agents-default-agent-yaml-2026-03-10-f213ea3.md",
+      "date": "2026-03-10",
+      "label": "Agents Default Agent Yaml 2026 03 10 F213Ea3"
+    },
+    {
+      "version": "agents-default-agent-yaml-2026-03-17-c8547ed",
+      "file": "prompts-agents-default-agent-yaml-2026-03-17-c8547ed.md",
+      "date": "2026-03-17",
+      "label": "Agents Default Agent Yaml 2026 03 17 C8547Ed"
+    },
+    {
+      "version": "agents-default-agent-yaml-2026-03-23-ff09e97",
+      "file": "prompts-agents-default-agent-yaml-2026-03-23-ff09e97.md",
+      "date": "2026-03-23",
+      "label": "Agents Default Agent Yaml 2026 03 23 Ff09E97"
+    },
+    {
+      "version": "agents-default-coder-yaml-2026-03-23-ff09e97",
+      "file": "prompts-agents-default-coder-yaml-2026-03-23-ff09e97.md",
+      "date": "2026-03-23",
+      "label": "Agents Default Coder Yaml 2026 03 23 Ff09E97"
+    },
+    {
+      "version": "agents-default-explore-yaml-2026-03-23-ff09e97",
+      "file": "prompts-agents-default-explore-yaml-2026-03-23-ff09e97.md",
+      "date": "2026-03-23",
+      "label": "Agents Default Explore Yaml 2026 03 23 Ff09E97"
+    },
+    {
+      "version": "agents-default-explore-yaml-2026-03-31-d3f46eb",
+      "file": "prompts-agents-default-explore-yaml-2026-03-31-d3f46eb.md",
+      "date": "2026-03-31",
+      "label": "Agents Default Explore Yaml 2026 03 31 D3F46Eb"
+    },
+    {
+      "version": "agents-default-plan-yaml-2026-03-23-ff09e97",
+      "file": "prompts-agents-default-plan-yaml-2026-03-23-ff09e97.md",
+      "date": "2026-03-23",
+      "label": "Agents Default Plan Yaml 2026 03 23 Ff09E97"
+    },
+    {
+      "version": "agents-default-plan-yaml-2026-03-31-d3f46eb",
+      "file": "prompts-agents-default-plan-yaml-2026-03-31-d3f46eb.md",
+      "date": "2026-03-31",
+      "label": "Agents Default Plan Yaml 2026 03 31 D3F46Eb"
+    },
+    {
+      "version": "agents-default-system-2025-10-27-cde5553",
+      "file": "prompts-agents-default-system-2025-10-27-cde5553.md",
+      "date": "2025-10-27",
+      "label": "Agents Default System 2025 10 27 Cde5553"
+    },
+    {
+      "version": "agents-default-system-2025-11-20-d5b556b",
+      "file": "prompts-agents-default-system-2025-11-20-d5b556b.md",
+      "date": "2025-11-20",
+      "label": "Agents Default System 2025 11 20 D5B556B"
+    },
+    {
+      "version": "agents-default-system-2025-12-20-9e0ce19",
+      "file": "prompts-agents-default-system-2025-12-20-9e0ce19.md",
+      "date": "2025-12-20",
+      "label": "Agents Default System 2025 12 20 9E0Ce19"
+    },
+    {
+      "version": "agents-default-system-2025-12-26-32d4f79",
+      "file": "prompts-agents-default-system-2025-12-26-32d4f79.md",
+      "date": "2025-12-26",
+      "label": "Agents Default System 2025 12 26 32D4F79"
+    },
+    {
+      "version": "agents-default-system-2025-12-26-ea8cf1b",
+      "file": "prompts-agents-default-system-2025-12-26-ea8cf1b.md",
+      "date": "2025-12-26",
+      "label": "Agents Default System 2025 12 26 Ea8Cf1B"
+    },
+    {
+      "version": "agents-default-system-2025-12-29-e4f4cc3",
+      "file": "prompts-agents-default-system-2025-12-29-e4f4cc3.md",
+      "date": "2025-12-29",
+      "label": "Agents Default System 2025 12 29 E4F4Cc3"
+    },
+    {
+      "version": "agents-default-system-2026-01-25-9e7d989",
+      "file": "prompts-agents-default-system-2026-01-25-9e7d989.md",
+      "date": "2026-01-25",
+      "label": "Agents Default System 2026 01 25 9E7D989"
+    },
+    {
+      "version": "agents-default-system-2026-01-26-30b933c",
+      "file": "prompts-agents-default-system-2026-01-26-30b933c.md",
+      "date": "2026-01-26",
+      "label": "Agents Default System 2026 01 26 30B933C"
+    },
+    {
+      "version": "agents-default-system-2026-02-27-f27b450",
+      "file": "prompts-agents-default-system-2026-02-27-f27b450.md",
+      "date": "2026-02-27",
+      "label": "Agents Default System 2026 02 27 F27B450"
+    },
+    {
+      "version": "agents-default-system-2026-03-10-f213ea3",
+      "file": "prompts-agents-default-system-2026-03-10-f213ea3.md",
+      "date": "2026-03-10",
+      "label": "Agents Default System 2026 03 10 F213Ea3"
+    },
+    {
+      "version": "agents-default-system-2026-03-17-c8547ed",
+      "file": "prompts-agents-default-system-2026-03-17-c8547ed.md",
+      "date": "2026-03-17",
+      "label": "Agents Default System 2026 03 17 C8547Ed"
+    },
+    {
+      "version": "agents-default-system-2026-03-23-ff09e97",
+      "file": "prompts-agents-default-system-2026-03-23-ff09e97.md",
+      "date": "2026-03-23",
+      "label": "Agents Default System 2026 03 23 Ff09E97"
+    },
+    {
+      "version": "agents-default-system-2026-03-25-5e6af95",
+      "file": "prompts-agents-default-system-2026-03-25-5e6af95.md",
+      "date": "2026-03-25",
+      "label": "Agents Default System 2026 03 25 5E6Af95"
+    },
+    {
+      "version": "agents-default-system-2026-03-31-33af66d",
+      "file": "prompts-agents-default-system-2026-03-31-33af66d.md",
+      "date": "2026-03-31",
+      "label": "Agents Default System 2026 03 31 33Af66D"
+    },
+    {
+      "version": "agents-default-system-2026-03-31-d3f46eb",
+      "file": "prompts-agents-default-system-2026-03-31-d3f46eb.md",
+      "date": "2026-03-31",
+      "label": "Agents Default System 2026 03 31 D3F46Eb"
+    },
+    {
+      "version": "agents-default-system-2026-04-01-3bad72e",
+      "file": "prompts-agents-default-system-2026-04-01-3bad72e.md",
+      "date": "2026-04-01",
+      "label": "Agents Default System 2026 04 01 3Bad72E"
+    }
+  ]
+}

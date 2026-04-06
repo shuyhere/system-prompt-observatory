@@ -1,0 +1,69 @@
+{
+  "versions": [
+    {
+      "version": "2.0-flash-webapp",
+      "file": "prompts-2.0-flash-webapp.md",
+      "label": "2.0 Flash Webapp"
+    },
+    {
+      "version": "2.5-flash-image-preview",
+      "file": "prompts-2.5-flash-image-preview.md",
+      "label": "2.5 Flash Image Preview"
+    },
+    {
+      "version": "2.5-pro-api",
+      "file": "prompts-2.5-pro-api.md",
+      "label": "2.5 Pro Api"
+    },
+    {
+      "version": "2.5-pro-guided-learning",
+      "file": "prompts-2.5-pro-guided-learning.md",
+      "label": "2.5 Pro Guided Learning"
+    },
+    {
+      "version": "2.5-pro-webapp",
+      "file": "prompts-2.5-pro-webapp.md",
+      "label": "2.5 Pro Webapp"
+    },
+    {
+      "version": "3-flash",
+      "file": "prompts-3-flash.md",
+      "label": "3 Flash"
+    },
+    {
+      "version": "3-pro",
+      "file": "prompts-3-pro.md",
+      "label": "3 Pro"
+    },
+    {
+      "version": "3.1-pro-api",
+      "file": "prompts-3.1-pro-api.md",
+      "label": "3.1 Pro Api"
+    },
+    {
+      "version": "3.1-pro",
+      "file": "prompts-3.1-pro.md",
+      "label": "3.1 Pro"
+    },
+    {
+      "version": "ai-studio-build",
+      "file": "prompts-ai-studio-build.md",
+      "label": "Ai Studio Build"
+    },
+    {
+      "version": "diffusion",
+      "file": "prompts-diffusion.md",
+      "label": "Diffusion"
+    },
+    {
+      "version": "notebooklm-chat",
+      "file": "prompts-notebooklm-chat.md",
+      "label": "Notebooklm Chat"
+    },
+    {
+      "version": "workspace",
+      "file": "prompts-workspace.md",
+      "label": "Workspace"
+    }
+  ]
+}

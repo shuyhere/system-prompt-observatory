@@ -1,0 +1,322 @@
+{
+  "versions": [
+    {
+      "version": "base-2025-04-24-31d0d7a",
+      "file": "prompts-base-2025-04-24-31d0d7a.md",
+      "date": "2025-04-24",
+      "label": "Base 2025 04 24 31D0D7A"
+    },
+    {
+      "version": "base-2025-07-31-6ce0a58",
+      "file": "prompts-base-2025-07-31-6ce0a58.md",
+      "date": "2025-07-31",
+      "label": "Base 2025 07 31 6Ce0A58"
+    },
+    {
+      "version": "base-2025-08-04-063083a",
+      "file": "prompts-base-2025-08-04-063083a.md",
+      "date": "2025-08-04",
+      "label": "Base 2025 08 04 063083A"
+    },
+    {
+      "version": "base-2025-08-04-a6139aa",
+      "file": "prompts-base-2025-08-04-a6139aa.md",
+      "date": "2025-08-04",
+      "label": "Base 2025 08 04 A6139Aa"
+    },
+    {
+      "version": "base-2025-08-05-d31e149",
+      "file": "prompts-base-2025-08-05-d31e149.md",
+      "date": "2025-08-05",
+      "label": "Base 2025 08 05 D31E149"
+    },
+    {
+      "version": "base-2025-08-07-81b148b",
+      "file": "prompts-base-2025-08-07-81b148b.md",
+      "date": "2025-08-07",
+      "label": "Base 2025 08 07 81B148B"
+    },
+    {
+      "version": "base-2025-08-12-90d892f",
+      "file": "prompts-base-2025-08-12-90d892f.md",
+      "date": "2025-08-12",
+      "label": "Base 2025 08 12 90D892F"
+    },
+    {
+      "version": "base-2025-08-13-30ee245",
+      "file": "prompts-base-2025-08-13-30ee245.md",
+      "date": "2025-08-13",
+      "label": "Base 2025 08 13 30Ee245"
+    },
+    {
+      "version": "base-2025-08-21-e4c275d",
+      "file": "prompts-base-2025-08-21-e4c275d.md",
+      "date": "2025-08-21",
+      "label": "Base 2025 08 21 E4C275D"
+    },
+    {
+      "version": "base-2025-08-26-3d8bca7",
+      "file": "prompts-base-2025-08-26-3d8bca7.md",
+      "date": "2025-08-26",
+      "label": "Base 2025 08 26 3D8Bca7"
+    },
+    {
+      "version": "base-2025-09-03-4ae45a6",
+      "file": "prompts-base-2025-09-03-4ae45a6.md",
+      "date": "2025-09-03",
+      "label": "Base 2025 09 03 4Ae45A6"
+    },
+    {
+      "version": "base-2025-09-04-bef7ed0",
+      "file": "prompts-base-2025-09-04-bef7ed0.md",
+      "date": "2025-09-04",
+      "label": "Base 2025 09 04 Bef7Ed0"
+    },
+    {
+      "version": "base-2025-09-15-b1c291e",
+      "file": "prompts-base-2025-09-15-b1c291e.md",
+      "date": "2025-09-15",
+      "label": "Base 2025 09 15 B1C291E"
+    },
+    {
+      "version": "base-2025-12-12-26d0d82",
+      "file": "prompts-base-2025-12-12-26d0d82.md",
+      "date": "2025-12-12",
+      "label": "Base 2025 12 12 26D0D82"
+    },
+    {
+      "version": "base-2026-01-12-87f7226",
+      "file": "prompts-base-2026-01-12-87f7226.md",
+      "date": "2026-01-12",
+      "label": "Base 2026 01 12 87F7226"
+    },
+    {
+      "version": "gpt5codex-2025-09-15-f037b2f",
+      "file": "prompts-gpt5codex-2025-09-15-f037b2f.md",
+      "date": "2025-09-15",
+      "label": "Gpt5Codex 2025 09 15 F037B2F"
+    },
+    {
+      "version": "gpt5codex-2025-09-17-c950548",
+      "file": "prompts-gpt5codex-2025-09-17-c950548.md",
+      "date": "2025-09-17",
+      "label": "Gpt5Codex 2025 09 17 C950548"
+    },
+    {
+      "version": "gpt5codex-2025-09-30-f6a1528",
+      "file": "prompts-gpt5codex-2025-09-30-f6a1528.md",
+      "date": "2025-09-30",
+      "label": "Gpt5Codex 2025 09 30 F6A1528"
+    },
+    {
+      "version": "gpt5codex-2025-10-01-35c76ad",
+      "file": "prompts-gpt5codex-2025-10-01-35c76ad.md",
+      "date": "2025-10-01",
+      "label": "Gpt5Codex 2025 10 01 35C76Ad"
+    },
+    {
+      "version": "gpt5codex-2025-10-04-0ad1b07",
+      "file": "prompts-gpt5codex-2025-10-04-0ad1b07.md",
+      "date": "2025-10-04",
+      "label": "Gpt5Codex 2025 10 04 0Ad1B07"
+    },
+    {
+      "version": "gpt5codex-2025-11-06-8c75ed3",
+      "file": "prompts-gpt5codex-2025-11-06-8c75ed3.md",
+      "date": "2025-11-06",
+      "label": "Gpt5Codex 2025 11 06 8C75Ed3"
+    },
+    {
+      "version": "gpt5codex-2025-11-17-daf77b8",
+      "file": "prompts-gpt5codex-2025-11-17-daf77b8.md",
+      "date": "2025-11-17",
+      "label": "Gpt5Codex 2025 11 17 Daf77B8"
+    },
+    {
+      "version": "gpt5codex-2025-12-10-e0fb3ca",
+      "file": "prompts-gpt5codex-2025-12-10-e0fb3ca.md",
+      "date": "2025-12-10",
+      "label": "Gpt5Codex 2025 12 10 E0Fb3Ca"
+    },
+    {
+      "version": "gpt5codex-2026-01-12-87f7226",
+      "file": "prompts-gpt5codex-2026-01-12-87f7226.md",
+      "date": "2026-01-12",
+      "label": "Gpt5Codex 2026 01 12 87F7226"
+    },
+    {
+      "version": "gpt-5.1-codex-max_prompt-2025-11-19-d5dfba2",
+      "file": "prompts-gpt-5.1-codex-max_prompt-2025-11-19-d5dfba2.md",
+      "date": "2025-11-19",
+      "label": "Gpt 5.1 Codex Max Prompt 2025 11 19 D5Dfba2"
+    },
+    {
+      "version": "gpt-5.2-codex_prompt-2025-12-18-f084e52",
+      "file": "prompts-gpt-5.2-codex_prompt-2025-12-18-f084e52.md",
+      "date": "2025-12-18",
+      "label": "Gpt 5.2 Codex Prompt 2025 12 18 F084E52"
+    },
+    {
+      "version": "gpt-5.2-codex_prompt-2026-01-12-87f7226",
+      "file": "prompts-gpt-5.2-codex_prompt-2026-01-12-87f7226.md",
+      "date": "2026-01-12",
+      "label": "Gpt 5.2 Codex Prompt 2026 01 12 87F7226"
+    },
+    {
+      "version": "gpt_5_1_prompt-2025-11-13-8dcbd29",
+      "file": "prompts-gpt_5_1_prompt-2025-11-13-8dcbd29.md",
+      "date": "2025-11-13",
+      "label": "Gpt 5 1 Prompt 2025 11 13 8Dcbd29"
+    },
+    {
+      "version": "gpt_5_1_prompt-2025-11-17-daf77b8",
+      "file": "prompts-gpt_5_1_prompt-2025-11-17-daf77b8.md",
+      "date": "2025-11-17",
+      "label": "Gpt 5 1 Prompt 2025 11 17 Daf77B8"
+    },
+    {
+      "version": "gpt_5_1_prompt-2025-12-10-e0fb3ca",
+      "file": "prompts-gpt_5_1_prompt-2025-12-10-e0fb3ca.md",
+      "date": "2025-12-10",
+      "label": "Gpt 5 1 Prompt 2025 12 10 E0Fb3Ca"
+    },
+    {
+      "version": "gpt_5_1_prompt-2025-12-12-570eb5f",
+      "file": "prompts-gpt_5_1_prompt-2025-12-12-570eb5f.md",
+      "date": "2025-12-12",
+      "label": "Gpt 5 1 Prompt 2025 12 12 570Eb5F"
+    },
+    {
+      "version": "gpt_5_1_prompt-2026-01-12-87f7226",
+      "file": "prompts-gpt_5_1_prompt-2026-01-12-87f7226.md",
+      "date": "2026-01-12",
+      "label": "Gpt 5 1 Prompt 2026 01 12 87F7226"
+    },
+    {
+      "version": "gpt_5_2_prompt-2025-12-11-238ce7d",
+      "file": "prompts-gpt_5_2_prompt-2025-12-11-238ce7d.md",
+      "date": "2025-12-11",
+      "label": "Gpt 5 2 Prompt 2025 12 11 238Ce7D"
+    },
+    {
+      "version": "gpt_5_2_prompt-2025-12-12-570eb5f",
+      "file": "prompts-gpt_5_2_prompt-2025-12-12-570eb5f.md",
+      "date": "2025-12-12",
+      "label": "Gpt 5 2 Prompt 2025 12 12 570Eb5F"
+    },
+    {
+      "version": "gpt_5_2_prompt-2025-12-12-9429e8b",
+      "file": "prompts-gpt_5_2_prompt-2025-12-12-9429e8b.md",
+      "date": "2025-12-12",
+      "label": "Gpt 5 2 Prompt 2025 12 12 9429E8B"
+    },
+    {
+      "version": "gpt_5_2_prompt-2026-01-12-87f7226",
+      "file": "prompts-gpt_5_2_prompt-2026-01-12-87f7226.md",
+      "date": "2026-01-12",
+      "label": "Gpt 5 2 Prompt 2026 01 12 87F7226"
+    },
+    {
+      "version": "prompt_with_apply_patch_instructions-2026-01-07-9179c9d",
+      "file": "prompts-prompt_with_apply_patch_instructions-2026-01-07-9179c9d.md",
+      "date": "2026-01-07",
+      "label": "Prompt With Apply Patch Instructions 2026 01 07 9179C9D"
+    },
+    {
+      "version": "prompt_with_apply_patch_instructions-2026-01-12-87f7226",
+      "file": "prompts-prompt_with_apply_patch_instructions-2026-01-12-87f7226.md",
+      "date": "2026-01-12",
+      "label": "Prompt With Apply Patch Instructions 2026 01 12 87F7226"
+    },
+    {
+      "version": "templates-agents-orchestrator-2026-01-15-05b9606",
+      "file": "prompts-templates-agents-orchestrator-2026-01-15-05b9606.md",
+      "date": "2026-01-15",
+      "label": "Templates Agents Orchestrator 2026 01 15 05B9606"
+    },
+    {
+      "version": "templates-agents-orchestrator-2026-01-15-393a5a0",
+      "file": "prompts-templates-agents-orchestrator-2026-01-15-393a5a0.md",
+      "date": "2026-01-15",
+      "label": "Templates Agents Orchestrator 2026 01 15 393A5A0"
+    },
+    {
+      "version": "templates-agents-orchestrator-2026-01-16-7905e99",
+      "file": "prompts-templates-agents-orchestrator-2026-01-16-7905e99.md",
+      "date": "2026-01-16",
+      "label": "Templates Agents Orchestrator 2026 01 16 7905E99"
+    },
+    {
+      "version": "templates-agents-orchestrator-2026-01-19-3c28c85",
+      "file": "prompts-templates-agents-orchestrator-2026-01-19-3c28c85.md",
+      "date": "2026-01-19",
+      "label": "Templates Agents Orchestrator 2026 01 19 3C28C85"
+    },
+    {
+      "version": "templates-agents-orchestrator-2026-01-26-375a5ef",
+      "file": "prompts-templates-agents-orchestrator-2026-01-26-375a5ef.md",
+      "date": "2026-01-26",
+      "label": "Templates Agents Orchestrator 2026 01 26 375A5Ef"
+    },
+    {
+      "version": "templates-agents-orchestrator-2026-01-27-3b726d9",
+      "file": "prompts-templates-agents-orchestrator-2026-01-27-3b726d9.md",
+      "date": "2026-01-27",
+      "label": "Templates Agents Orchestrator 2026 01 27 3B726D9"
+    },
+    {
+      "version": "templates-agents-orchestrator-2026-01-27-74ffbbe",
+      "file": "prompts-templates-agents-orchestrator-2026-01-27-74ffbbe.md",
+      "date": "2026-01-27",
+      "label": "Templates Agents Orchestrator 2026 01 27 74Ffbbe"
+    },
+    {
+      "version": "templates-agents-orchestrator-2026-03-13-cfd97b3",
+      "file": "prompts-templates-agents-orchestrator-2026-03-13-cfd97b3.md",
+      "date": "2026-03-13",
+      "label": "Templates Agents Orchestrator 2026 03 13 Cfd97B3"
+    },
+    {
+      "version": "templates-model_instructions-gpt-5.2-codex_instructions_template-2026-01-20-714151e",
+      "file": "prompts-templates-model_instructions-gpt-5.2-codex_instructions_template-2026-01-20-714151e.md",
+      "date": "2026-01-20",
+      "label": "Templates Model Instructions Gpt 5.2 Codex Instructions Template 2026 01 20 714151E"
+    },
+    {
+      "version": "templates-model_instructions-gpt-5.2-codex_instructions_template-2026-01-28-9757e14",
+      "file": "prompts-templates-model_instructions-gpt-5.2-codex_instructions_template-2026-01-28-9757e14.md",
+      "date": "2026-01-28",
+      "label": "Templates Model Instructions Gpt 5.2 Codex Instructions Template 2026 01 28 9757E14"
+    },
+    {
+      "version": "templates-model_instructions-gpt-5.2-codex_instructions_template-2026-01-30-e3ab0bd",
+      "file": "prompts-templates-model_instructions-gpt-5.2-codex_instructions_template-2026-01-30-e3ab0bd.md",
+      "date": "2026-01-30",
+      "label": "Templates Model Instructions Gpt 5.2 Codex Instructions Template 2026 01 30 E3Ab0Bd"
+    },
+    {
+      "version": "templates-model_instructions-gpt-5.2-codex_instructions_template-2026-02-01-08a5ad9",
+      "file": "prompts-templates-model_instructions-gpt-5.2-codex_instructions_template-2026-02-01-08a5ad9.md",
+      "date": "2026-02-01",
+      "label": "Templates Model Instructions Gpt 5.2 Codex Instructions Template 2026 02 01 08A5Ad9"
+    },
+    {
+      "version": "templates-model_instructions-gpt-5.2-codex_instructions_template-2026-02-01-a90ff83",
+      "file": "prompts-templates-model_instructions-gpt-5.2-codex_instructions_template-2026-02-01-a90ff83.md",
+      "date": "2026-02-01",
+      "label": "Templates Model Instructions Gpt 5.2 Codex Instructions Template 2026 02 01 A90Ff83"
+    },
+    {
+      "version": "templates-personalities-gpt-5.2-codex_friendly-2026-01-30-e3ab0bd",
+      "file": "prompts-templates-personalities-gpt-5.2-codex_friendly-2026-01-30-e3ab0bd.md",
+      "date": "2026-01-30",
+      "label": "Templates Personalities Gpt 5.2 Codex Friendly 2026 01 30 E3Ab0Bd"
+    },
+    {
+      "version": "templates-personalities-gpt-5.2-codex_pragmatic-2026-01-30-e3ab0bd",
+      "file": "prompts-templates-personalities-gpt-5.2-codex_pragmatic-2026-01-30-e3ab0bd.md",
+      "date": "2026-01-30",
+      "label": "Templates Personalities Gpt 5.2 Codex Pragmatic 2026 01 30 E3Ab0Bd"
+    }
+  ]
+}

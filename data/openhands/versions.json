@@ -1,0 +1,136 @@
+{
+  "versions": [
+    {
+      "version": "system-2024-11-14-07f0d1c",
+      "file": "prompts-system-2024-11-14-07f0d1c.md",
+      "date": "2024-11-14",
+      "label": "System 2024 11 14 07F0D1C"
+    },
+    {
+      "version": "system-2024-12-26-e2a25f1",
+      "file": "prompts-system-2024-12-26-e2a25f1.md",
+      "date": "2024-12-26",
+      "label": "System 2024 12 26 E2A25F1"
+    },
+    {
+      "version": "system-2025-01-09-f6bed82",
+      "file": "prompts-system-2025-01-09-f6bed82.md",
+      "date": "2025-01-09",
+      "label": "System 2025 01 09 F6Bed82"
+    },
+    {
+      "version": "system-2025-01-14-fa6792e",
+      "file": "prompts-system-2025-01-14-fa6792e.md",
+      "date": "2025-01-14",
+      "label": "System 2025 01 14 Fa6792E"
+    },
+    {
+      "version": "system-2025-01-21-f0dbb02",
+      "file": "prompts-system-2025-01-21-f0dbb02.md",
+      "date": "2025-01-21",
+      "label": "System 2025 01 21 F0Dbb02"
+    },
+    {
+      "version": "system-2025-02-26-6b1a937",
+      "file": "prompts-system-2025-02-26-6b1a937.md",
+      "date": "2025-02-26",
+      "label": "System 2025 02 26 6B1A937"
+    },
+    {
+      "version": "system-2025-03-07-a4908f9",
+      "file": "prompts-system-2025-03-07-a4908f9.md",
+      "date": "2025-03-07",
+      "label": "System 2025 03 07 A4908F9"
+    },
+    {
+      "version": "system-2025-03-24-e61e4d5",
+      "file": "prompts-system-2025-03-24-e61e4d5.md",
+      "date": "2025-03-24",
+      "label": "System 2025 03 24 E61E4D5"
+    },
+    {
+      "version": "system-2025-03-27-d69e4fe",
+      "file": "prompts-system-2025-03-27-d69e4fe.md",
+      "date": "2025-03-27",
+      "label": "System 2025 03 27 D69E4Fe"
+    },
+    {
+      "version": "system-2025-04-30-0b728c0",
+      "file": "prompts-system-2025-04-30-0b728c0.md",
+      "date": "2025-04-30",
+      "label": "System 2025 04 30 0B728C0"
+    },
+    {
+      "version": "system-2025-06-25-743c814",
+      "file": "prompts-system-2025-06-25-743c814.md",
+      "date": "2025-06-25",
+      "label": "System 2025 06 25 743C814"
+    },
+    {
+      "version": "system-2025-07-17-3475d80",
+      "file": "prompts-system-2025-07-17-3475d80.md",
+      "date": "2025-07-17",
+      "label": "System 2025 07 17 3475D80"
+    },
+    {
+      "version": "system-2025-07-18-f5674d7",
+      "file": "prompts-system-2025-07-18-f5674d7.md",
+      "date": "2025-07-18",
+      "label": "System 2025 07 18 F5674D7"
+    },
+    {
+      "version": "system-2025-07-24-b7f2346",
+      "file": "prompts-system-2025-07-24-b7f2346.md",
+      "date": "2025-07-24",
+      "label": "System 2025 07 24 B7F2346"
+    },
+    {
+      "version": "system-2025-07-28-8fb3728",
+      "file": "prompts-system-2025-07-28-8fb3728.md",
+      "date": "2025-07-28",
+      "label": "System 2025 07 28 8Fb3728"
+    },
+    {
+      "version": "system-2025-08-01-d3983b0",
+      "file": "prompts-system-2025-08-01-d3983b0.md",
+      "date": "2025-08-01",
+      "label": "System 2025 08 01 D3983B0"
+    },
+    {
+      "version": "system-2025-08-12-2b7e448",
+      "file": "prompts-system-2025-08-12-2b7e448.md",
+      "date": "2025-08-12",
+      "label": "System 2025 08 12 2B7E448"
+    },
+    {
+      "version": "system-2025-08-15-7a86402",
+      "file": "prompts-system-2025-08-15-7a86402.md",
+      "date": "2025-08-15",
+      "label": "System 2025 08 15 7A86402"
+    },
+    {
+      "version": "system-2025-08-22-ca424ec",
+      "file": "prompts-system-2025-08-22-ca424ec.md",
+      "date": "2025-08-22",
+      "label": "System 2025 08 22 Ca424Ec"
+    },
+    {
+      "version": "system-2025-08-22-d22a2e3",
+      "file": "prompts-system-2025-08-22-d22a2e3.md",
+      "date": "2025-08-22",
+      "label": "System 2025 08 22 D22A2E3"
+    },
+    {
+      "version": "system-2025-10-01-4c89b5a",
+      "file": "prompts-system-2025-10-01-4c89b5a.md",
+      "date": "2025-10-01",
+      "label": "System 2025 10 01 4C89B5A"
+    },
+    {
+      "version": "system-2025-11-23-3504ca7",
+      "file": "prompts-system-2025-11-23-3504ca7.md",
+      "date": "2025-11-23",
+      "label": "System 2025 11 23 3504Ca7"
+    }
+  ]
+}

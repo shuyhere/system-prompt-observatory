@@ -1,0 +1,164 @@
+{
+  "versions": [
+    {
+      "version": "juju-anthropic-claude-haiku-3_20240712",
+      "file": "prompts-juju-anthropic-claude-haiku-3_20240712.md",
+      "label": "Juju Anthropic Claude Haiku 3 20240712"
+    },
+    {
+      "version": "juju-anthropic-claude-haiku-4.5_20251015",
+      "file": "prompts-juju-anthropic-claude-haiku-4.5_20251015.md",
+      "label": "Juju Anthropic Claude Haiku 4.5 20251015"
+    },
+    {
+      "version": "juju-anthropic-claude-haiku-4.5_20251119",
+      "file": "prompts-juju-anthropic-claude-haiku-4.5_20251119.md",
+      "label": "Juju Anthropic Claude Haiku 4.5 20251119"
+    },
+    {
+      "version": "juju-anthropic-claude-opus-3_20240712",
+      "file": "prompts-juju-anthropic-claude-opus-3_20240712.md",
+      "label": "Juju Anthropic Claude Opus 3 20240712"
+    },
+    {
+      "version": "juju-anthropic-claude-opus-4.1_20250805",
+      "file": "prompts-juju-anthropic-claude-opus-4.1_20250805.md",
+      "label": "Juju Anthropic Claude Opus 4.1 20250805"
+    },
+    {
+      "version": "juju-anthropic-claude-opus-4.5_20251124",
+      "file": "prompts-juju-anthropic-claude-opus-4.5_20251124.md",
+      "label": "Juju Anthropic Claude Opus 4.5 20251124"
+    },
+    {
+      "version": "juju-anthropic-claude-opus-4_20250522",
+      "file": "prompts-juju-anthropic-claude-opus-4_20250522.md",
+      "label": "Juju Anthropic Claude Opus 4 20250522"
+    },
+    {
+      "version": "juju-anthropic-claude-opus-4_20250731",
+      "file": "prompts-juju-anthropic-claude-opus-4_20250731.md",
+      "label": "Juju Anthropic Claude Opus 4 20250731"
+    },
+    {
+      "version": "juju-anthropic-claude-opus-4_20250805",
+      "file": "prompts-juju-anthropic-claude-opus-4_20250805.md",
+      "label": "Juju Anthropic Claude Opus 4 20250805"
+    },
+    {
+      "version": "juju-anthropic-claude-opus_20240306",
+      "file": "prompts-juju-anthropic-claude-opus_20240306.md",
+      "label": "Juju Anthropic Claude Opus 20240306"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-3.5_20240712",
+      "file": "prompts-juju-anthropic-claude-sonnet-3.5_20240712.md",
+      "label": "Juju Anthropic Claude Sonnet 3.5 20240712"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-3.5_20240909",
+      "file": "prompts-juju-anthropic-claude-sonnet-3.5_20240909.md",
+      "label": "Juju Anthropic Claude Sonnet 3.5 20240909"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-3.5_20241022",
+      "file": "prompts-juju-anthropic-claude-sonnet-3.5_20241022.md",
+      "label": "Juju Anthropic Claude Sonnet 3.5 20241022"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-3.5_20241122",
+      "file": "prompts-juju-anthropic-claude-sonnet-3.5_20241122.md",
+      "label": "Juju Anthropic Claude Sonnet 3.5 20241122"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-3.7_20250224",
+      "file": "prompts-juju-anthropic-claude-sonnet-3.7_20250224.md",
+      "label": "Juju Anthropic Claude Sonnet 3.7 20250224"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-3_20240306",
+      "file": "prompts-juju-anthropic-claude-sonnet-3_20240306.md",
+      "label": "Juju Anthropic Claude Sonnet 3 20240306"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-3_20240311",
+      "file": "prompts-juju-anthropic-claude-sonnet-3_20240311.md",
+      "label": "Juju Anthropic Claude Sonnet 3 20240311"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-4.5_20250929",
+      "file": "prompts-juju-anthropic-claude-sonnet-4.5_20250929.md",
+      "label": "Juju Anthropic Claude Sonnet 4.5 20250929"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-4.5_20251119",
+      "file": "prompts-juju-anthropic-claude-sonnet-4.5_20251119.md",
+      "label": "Juju Anthropic Claude Sonnet 4.5 20251119"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-4.5_20260128",
+      "file": "prompts-juju-anthropic-claude-sonnet-4.5_20260128.md",
+      "label": "Juju Anthropic Claude Sonnet 4.5 20260128"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-4_20250522",
+      "file": "prompts-juju-anthropic-claude-sonnet-4_20250522.md",
+      "label": "Juju Anthropic Claude Sonnet 4 20250522"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-4_20250731",
+      "file": "prompts-juju-anthropic-claude-sonnet-4_20250731.md",
+      "label": "Juju Anthropic Claude Sonnet 4 20250731"
+    },
+    {
+      "version": "juju-anthropic-claude-sonnet-4_20250805",
+      "file": "prompts-juju-anthropic-claude-sonnet-4_20250805.md",
+      "label": "Juju Anthropic Claude Sonnet 4 20250805"
+    },
+    {
+      "version": "opus-4.1-thinking",
+      "file": "prompts-opus-4.1-thinking.md",
+      "label": "Opus 4.1 Thinking"
+    },
+    {
+      "version": "opus-4.5",
+      "file": "prompts-opus-4.5.md",
+      "label": "Opus 4.5"
+    },
+    {
+      "version": "opus-4.6-no-tools",
+      "file": "prompts-opus-4.6-no-tools.md",
+      "label": "Opus 4.6 No Tools"
+    },
+    {
+      "version": "opus-4.6",
+      "file": "prompts-opus-4.6.md",
+      "label": "Opus 4.6"
+    },
+    {
+      "version": "sonnet-3.7",
+      "file": "prompts-sonnet-3.7.md",
+      "label": "Sonnet 3.7"
+    },
+    {
+      "version": "sonnet-4.5",
+      "file": "prompts-sonnet-4.5.md",
+      "label": "Sonnet 4.5"
+    },
+    {
+      "version": "sonnet-4.6-no-tools",
+      "file": "prompts-sonnet-4.6-no-tools.md",
+      "label": "Sonnet 4.6 No Tools"
+    },
+    {
+      "version": "sonnet-4.6",
+      "file": "prompts-sonnet-4.6.md",
+      "label": "Sonnet 4.6"
+    },
+    {
+      "version": "sonnet-4",
+      "file": "prompts-sonnet-4.md",
+      "label": "Sonnet 4"
+    }
+  ]
+}

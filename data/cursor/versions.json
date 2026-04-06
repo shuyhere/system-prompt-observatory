@@ -1,0 +1,61 @@
+{
+  "versions": [
+    {
+      "version": "agent-2025-09-03",
+      "file": "prompts-agent-2025-09-03.md",
+      "date": "2025-09-03",
+      "label": "Agent 2025 09 03"
+    },
+    {
+      "version": "agent-cli-2025-08-07",
+      "file": "prompts-agent-cli-2025-08-07.md",
+      "date": "2025-08-07",
+      "label": "Agent Cli 2025 08 07"
+    },
+    {
+      "version": "agent-v1.0",
+      "file": "prompts-agent-v1.0.md",
+      "label": "Agent V1.0"
+    },
+    {
+      "version": "agent-v1.2",
+      "file": "prompts-agent-v1.2.md",
+      "label": "Agent V1.2"
+    },
+    {
+      "version": "agent-v2.0",
+      "file": "prompts-agent-v2.0.md",
+      "label": "Agent V2.0"
+    },
+    {
+      "version": "claude-3.7-sonnet",
+      "file": "prompts-claude-3.7-sonnet.md",
+      "label": "Claude 3.7 Sonnet"
+    },
+    {
+      "version": "gist-gregce",
+      "file": "prompts-gist-gregce.md",
+      "label": "Gist Gregce"
+    },
+    {
+      "version": "gist-sshh12",
+      "file": "prompts-gist-sshh12.md",
+      "label": "Gist Sshh12"
+    },
+    {
+      "version": "juju-cursor-ide-agent-claude-sonnet-3.7_20250309",
+      "file": "prompts-juju-cursor-ide-agent-claude-sonnet-3.7_20250309.md",
+      "label": "Juju Cursor Ide Agent Claude Sonnet 3.7 20250309"
+    },
+    {
+      "version": "juju-cursor-ide-sonnet_20241224",
+      "file": "prompts-juju-cursor-ide-sonnet_20241224.md",
+      "label": "Juju Cursor Ide Sonnet 20241224"
+    },
+    {
+      "version": "v2.0",
+      "file": "prompts-v2.0.md",
+      "label": "V2.0"
+    }
+  ]
+}

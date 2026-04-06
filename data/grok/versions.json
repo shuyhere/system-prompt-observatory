@@ -1,0 +1,74 @@
+{
+  "versions": [
+    {
+      "version": "3",
+      "file": "prompts-3.md",
+      "label": "3"
+    },
+    {
+      "version": "4.1-beta",
+      "file": "prompts-4.1-beta.md",
+      "label": "4.1 Beta"
+    },
+    {
+      "version": "4.2",
+      "file": "prompts-4.2.md",
+      "label": "4.2"
+    },
+    {
+      "version": "4",
+      "file": "prompts-4.md",
+      "label": "4"
+    },
+    {
+      "version": "juju-xAI-grok2_20241218",
+      "file": "prompts-juju-xAI-grok2_20241218.md",
+      "label": "Juju Xai Grok2 20241218"
+    },
+    {
+      "version": "juju-xAI-grok2_20250111",
+      "file": "prompts-juju-xAI-grok2_20250111.md",
+      "label": "Juju Xai Grok2 20250111"
+    },
+    {
+      "version": "juju-xAI-grok3_20250223",
+      "file": "prompts-juju-xAI-grok3_20250223.md",
+      "label": "Juju Xai Grok3 20250223"
+    },
+    {
+      "version": "juju-xAI-grok3_20250423",
+      "file": "prompts-juju-xAI-grok3_20250423.md",
+      "label": "Juju Xai Grok3 20250423"
+    },
+    {
+      "version": "juju-xAI-grok3_20250504",
+      "file": "prompts-juju-xAI-grok3_20250504.md",
+      "label": "Juju Xai Grok3 20250504"
+    },
+    {
+      "version": "juju-xAI-grok3_20250509",
+      "file": "prompts-juju-xAI-grok3_20250509.md",
+      "label": "Juju Xai Grok3 20250509"
+    },
+    {
+      "version": "juju-xAI-grok3_20250605",
+      "file": "prompts-juju-xAI-grok3_20250605.md",
+      "label": "Juju Xai Grok3 20250605"
+    },
+    {
+      "version": "juju-xAI-grok_20240307",
+      "file": "prompts-juju-xAI-grok_20240307.md",
+      "label": "Juju Xai Grok 20240307"
+    },
+    {
+      "version": "juju-xAI-grok_20241003",
+      "file": "prompts-juju-xAI-grok_20241003.md",
+      "label": "Juju Xai Grok 20241003"
+    },
+    {
+      "version": "juju-xAI-grok_telegramBot_20250823",
+      "file": "prompts-juju-xAI-grok_telegramBot_20250823.md",
+      "label": "Juju Xai Grok Telegrambot 20250823"
+    }
+  ]
+}

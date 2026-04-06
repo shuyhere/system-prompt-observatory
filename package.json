@@ -1,0 +1,20 @@
+{
+  "name": "system-prompt-observatory",
+  "version": "1.0.0",
+  "description": "Track and compare system prompts across all major AI agents",
+  "type": "module",
+  "scripts": {
+    "build": "node infra/build.js",
+    "dev": "node infra/build.js --watch & node infra/dev-server.js",
+    "import": "bash scripts/import-prompts.sh"
+  },
+  "dependencies": {
+    "lit": "^3.3.1",
+    "monaco-editor": "^0.52.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "versions": [
+    {
+      "version": "api-gpt-5-reasoning-effort-high-API-NOT-CHATGPT.com",
+      "file": "prompts-api-gpt-5-reasoning-effort-high-API-NOT-CHATGPT.com.md",
+      "label": "Api Gpt 5 Reasoning Effort High Api Not Chatgpt.Com"
+    },
+    {
+      "version": "api-o3-high-api",
+      "file": "prompts-api-o3-high-api.md",
+      "label": "Api O3 High Api"
+    },
+    {
+      "version": "api-o3-low-api",
+      "file": "prompts-api-o3-low-api.md",
+      "label": "Api O3 Low Api"
+    },
+    {
+      "version": "api-o3-medium-api",
+      "file": "prompts-api-o3-medium-api.md",
+      "label": "Api O3 Medium Api"
+    },
+    {
+      "version": "api-o4-mini-low-api",
+      "file": "prompts-api-o4-mini-low-api.md",
+      "label": "Api O4 Mini Low Api"
+    },
+    {
+      "version": "GPT-4.1-mini",
+      "file": "prompts-GPT-4.1-mini.md",
+      "label": "Gpt 4.1 Mini"
+    },
+    {
+      "version": "GPT-4.1",
+      "file": "prompts-GPT-4.1.md",
+      "label": "Gpt 4.1"
+    },
+    {
+      "version": "GPT-4.5",
+      "file": "prompts-GPT-4.5.md",
+      "label": "Gpt 4.5"
+    },
+    {
+      "version": "GPT-4o-WhatsApp",
+      "file": "prompts-GPT-4o-WhatsApp.md",
+      "label": "Gpt 4O Whatsapp"
+    },
+    {
+      "version": "GPT-4o",
+      "file": "prompts-GPT-4o.md",
+      "label": "Gpt 4O"
+    },
+    {
+      "version": "gpt-5-thinking",
+      "file": "prompts-gpt-5-thinking.md",
+      "label": "Gpt 5 Thinking"
+    },
+    {
+      "version": "gpt-5.1-candid",
+      "file": "prompts-gpt-5.1-candid.md",
+      "label": "Gpt 5.1 Candid"
+    },
+    {
+      "version": "gpt-5.1-cynical",
+      "file": "prompts-gpt-5.1-cynical.md",
+      "label": "Gpt 5.1 Cynical"
+    },
+    {
+      "version": "gpt-5.1-default",
+      "file": "prompts-gpt-5.1-default.md",
+      "label": "Gpt 5.1 Default"
+    },
+    {
+      "version": "gpt-5.1-efficient",
+      "file": "prompts-gpt-5.1-efficient.md",
+      "label": "Gpt 5.1 Efficient"
+    },
+    {
+      "version": "gpt-5.1-friendly",
+      "file": "prompts-gpt-5.1-friendly.md",
+      "label": "Gpt 5.1 Friendly"
+    },
+    {
+      "version": "gpt-5.1-nerdy",
+      "file": "prompts-gpt-5.1-nerdy.md",
+      "label": "Gpt 5.1 Nerdy"
+    },
+    {
+      "version": "gpt-5.1-professional",
+      "file": "prompts-gpt-5.1-professional.md",
+      "label": "Gpt 5.1 Professional"
+    },
+    {
+      "version": "gpt-5.1-quirky",
+      "file": "prompts-gpt-5.1-quirky.md",
+      "label": "Gpt 5.1 Quirky"
+    },
+    {
+      "version": "gpt-5.2-codex",
+      "file": "prompts-gpt-5.2-codex.md",
+      "label": "Gpt 5.2 Codex"
+    },
+    {
+      "version": "gpt-5.2-mini-free-account",
+      "file": "prompts-gpt-5.2-mini-free-account.md",
+      "label": "Gpt 5.2 Mini Free Account"
+    },
+    {
+      "version": "gpt-5.2-thinking",
+      "file": "prompts-gpt-5.2-thinking.md",
+      "label": "Gpt 5.2 Thinking"
+    },
+    {
+      "version": "gpt-5.3-instant",
+      "file": "prompts-gpt-5.3-instant.md",
+      "label": "Gpt 5.3 Instant"
+    },
+    {
+      "version": "gpt-5.4-thinking",
+      "file": "prompts-gpt-5.4-thinking.md",
+      "label": "Gpt 5.4 Thinking"
+    },
+    {
+      "version": "juju-openai-chatgpt4-android_20240207",
+      "file": "prompts-juju-openai-chatgpt4-android_20240207.md",
+      "label": "Juju Openai Chatgpt4 Android 20240207"
+    },
+    {
+      "version": "juju-openai-chatgpt4o_20240520",
+      "file": "prompts-juju-openai-chatgpt4o_20240520.md",
+      "label": "Juju Openai Chatgpt4O 20240520"
+    },
+    {
+      "version": "juju-openai-chatgpt4o_20250324",
+      "file": "prompts-juju-openai-chatgpt4o_20250324.md",
+      "label": "Juju Openai Chatgpt4O 20250324"
+    },
+    {
+      "version": "juju-openai-chatgpt4o_20250506",
+      "file": "prompts-juju-openai-chatgpt4o_20250506.md",
+      "label": "Juju Openai Chatgpt4O 20250506"
+    },
+    {
+      "version": "juju-openai-chatgpt5-codex_20260325",
+      "file": "prompts-juju-openai-chatgpt5-codex_20260325.md",
+      "label": "Juju Openai Chatgpt5 Codex 20260325"
+    },
+    {
+      "version": "juju-openai-chatgpt5-mini_20251206",
+      "file": "prompts-juju-openai-chatgpt5-mini_20251206.md",
+      "label": "Juju Openai Chatgpt5 Mini 20251206"
+    },
+    {
+      "version": "juju-openai-chatgpt5_20250807",
+      "file": "prompts-juju-openai-chatgpt5_20250807.md",
+      "label": "Juju Openai Chatgpt5 20250807"
+    },
+    {
+      "version": "juju-openai-chatgpt5_20250808",
+      "file": "prompts-juju-openai-chatgpt5_20250808.md",
+      "label": "Juju Openai Chatgpt5 20250808"
+    },
+    {
+      "version": "juju-openai-chatgpt5_20251109",
+      "file": "prompts-juju-openai-chatgpt5_20251109.md",
+      "label": "Juju Openai Chatgpt5 20251109"
+    },
+    {
+      "version": "juju-openai-chatgpt_20221201",
+      "file": "prompts-juju-openai-chatgpt_20221201.md",
+      "label": "Juju Openai Chatgpt 20221201"
+    },
+    {
+      "version": "louis-gpt4_dalle_browsing_analysis_20231110",
+      "file": "prompts-louis-gpt4_dalle_browsing_analysis_20231110.md",
+      "label": "Louis Gpt4 Dalle Browsing Analysis 20231110"
+    },
+    {
+      "version": "louis-gpt4_iOS_20231111",
+      "file": "prompts-louis-gpt4_iOS_20231111.md",
+      "label": "Louis Gpt4 Ios 20231111"
+    },
+    {
+      "version": "louis-gpt5",
+      "file": "prompts-louis-gpt5.md",
+      "label": "Louis Gpt5"
+    },
+    {
+      "version": "louis-gpt40_for_deep_research",
+      "file": "prompts-louis-gpt40_for_deep_research.md",
+      "label": "Louis Gpt40 For Deep Research"
+    },
+    {
+      "version": "louis-gpt-4-5-20250227",
+      "file": "prompts-louis-gpt-4-5-20250227.md",
+      "label": "Louis Gpt 4 5 20250227"
+    },
+    {
+      "version": "louis-gpt-4-gizmo-20231116",
+      "file": "prompts-louis-gpt-4-gizmo-20231116.md",
+      "label": "Louis Gpt 4 Gizmo 20231116"
+    },
+    {
+      "version": "louis-gpt-5-thinking",
+      "file": "prompts-louis-gpt-5-thinking.md",
+      "label": "Louis Gpt 5 Thinking"
+    },
+    {
+      "version": "louis-gpt-o3",
+      "file": "prompts-louis-gpt-o3.md",
+      "label": "Louis Gpt O3"
+    },
+    {
+      "version": "o3",
+      "file": "prompts-o3.md",
+      "label": "O3"
+    },
+    {
+      "version": "o4-mini",
+      "file": "prompts-o4-mini.md",
+      "label": "O4 Mini"
+    },
+    {
+      "version": "old-chatgpt-4o-mini",
+      "file": "prompts-old-chatgpt-4o-mini.md",
+      "label": "Old Chatgpt 4O Mini"
+    },
+    {
+      "version": "old-chatgpt.com-o4-mini",
+      "file": "prompts-old-chatgpt.com-o4-mini.md",
+      "label": "Old Chatgpt.Com O4 Mini"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "versions": [
+    {
+      "version": "comet-browser-assistant",
+      "file": "prompts-comet-browser-assistant.md",
+      "label": "Comet Browser Assistant"
+    },
+    {
+      "version": "juju-perplexity.ai_20221208",
+      "file": "prompts-juju-perplexity.ai_20221208.md",
+      "label": "Juju Perplexity.Ai 20221208"
+    },
+    {
+      "version": "juju-perplexity.ai_20240311",
+      "file": "prompts-juju-perplexity.ai_20240311.md",
+      "label": "Juju Perplexity.Ai 20240311"
+    },
+    {
+      "version": "juju-perplexity.ai_20240513",
+      "file": "prompts-juju-perplexity.ai_20240513.md",
+      "label": "Juju Perplexity.Ai 20240513"
+    },
+    {
+      "version": "juju-perplexity.ai_20240607",
+      "file": "prompts-juju-perplexity.ai_20240607.md",
+      "label": "Juju Perplexity.Ai 20240607"
+    },
+    {
+      "version": "juju-perplexity.ai_20250112",
+      "file": "prompts-juju-perplexity.ai_20250112.md",
+      "label": "Juju Perplexity.Ai 20250112"
+    },
+    {
+      "version": "juju-perplexity.ai_claude_20251001",
+      "file": "prompts-juju-perplexity.ai_claude_20251001.md",
+      "label": "Juju Perplexity.Ai Claude 20251001"
+    },
+    {
+      "version": "juju-perplexity.ai_gpt4_20240311",
+      "file": "prompts-juju-perplexity.ai_gpt4_20240311.md",
+      "label": "Juju Perplexity.Ai Gpt4 20240311"
+    },
+    {
+      "version": "juju-perplexity.ai_telegramBot_20250822",
+      "file": "prompts-juju-perplexity.ai_telegramBot_20250822.md",
+      "label": "Juju Perplexity.Ai Telegrambot 20250822"
+    },
+    {
+      "version": "voice-assistant",
+      "file": "prompts-voice-assistant.md",
+      "label": "Voice Assistant"
+    }
+  ]
+}
